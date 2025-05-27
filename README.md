@@ -39,6 +39,8 @@ Data preprocessing was performed in **Microsoft Excel**:
   - `director.csv`
   - `listed_in.csv`
   - `country.csv`
+  - `description.csv`
+
 
 ---
 
@@ -68,7 +70,17 @@ Used **Power Query Editor** to:
 
 ## 📊 Dashboard Features
 
-### 🧾 Page 1: Movie/TV Show Detail View
+---
+
+### 🌍 Page 1: Global Insights
+
+- **Shows Added Over Time** (2008–2021)
+- **Content by Rating** (TV-MA, TV-14, PG, etc.)
+- **Top 10 Genres** (e.g., International Movies, Dramas, Comedies)
+- **Map of Country Availability** (Global view)
+
+
+### 🧾 Page 2: Movie/TV Show Detail View
 
 - Dropdown filter to select a title.
 - Displays:
@@ -87,15 +99,6 @@ Used **Power Query Editor** to:
 - Available in: Nigeria, South Africa
 - Directed by: Adze Ugah
 - Stars: Adesua Etomi, Ayo Makun, Falz, Mercy Johnson
-
----
-
-### 🌍 Page 2: Global Insights
-
-- **Shows Added Over Time** (2008–2021)
-- **Content by Rating** (TV-MA, TV-14, PG, etc.)
-- **Top 10 Genres** (e.g., International Movies, Dramas, Comedies)
-- **Map of Country Availability** (Global view)
 
 ---
 
