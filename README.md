@@ -6,10 +6,10 @@ This project explores and visualizes Netflix's catalog using a combination of Ex
 ## 📸 Dashboard Screenshots
 
 ### 🎬 Movie/TV Show Detail Page
-![Netflix page1](Netflix page1.png)
+![Netflix page1](Netflix-page1.png)
 
 ### 🌐 Global Insights Page
-![Netflix page2](Netflix page2.png)
+![Netflix page2](Netflix-page2.png)
 
 ## 📁 Dataset Overview
 
